@@ -11,7 +11,6 @@
 
 - 📫 How to reach me [1996yeyan@gmail.com](mailto:1996yeyan@gmail.com)
 
-<h3 align='left'>Connect with me:</h3>
 <p align='left'>
 </p>
 
