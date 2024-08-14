@@ -1,15 +1,15 @@
 <h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
 <h3 align='center'>A passionate full stack software engineer</h3>
 
-- 🔭 Actively seeking **Software Internships**
-
-- 📝 I regularly write articles on [medium](https://medium.com/@yeyan1996)
+- 🔭 Actively seeking **Software Engineer Internships**
 
 - 💻 I'm proficient in Web Infrastructure and DevOps
 
-- 📫 How to reach me [1996yeyan@gmail.com](mailto:1996yeyan@gmail.com)
+- 🌱 I’m currently learning Cloud Services and Kubernetes
 
-- 🌱 I’m currently learning Cloud Services, Kubernetes
+- 📝 I regularly write articles on [medium](https://medium.com/@yeyan1996)
+
+- 📫 How to reach me [1996yeyan@gmail.com](mailto:1996yeyan@gmail.com)
 
 <h3 align='left'>Connect with me:</h3>
 <p align='left'>
