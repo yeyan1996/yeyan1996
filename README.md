@@ -3,7 +3,7 @@
 
 - 🔭 Actively seeking **Software Engineer Internships**
 
-- 💻 I'm proficient in Web Infrastructure and DevOps
+- 💻 I'm proficient in Web Application and Web Infrastructure
 
 - 🌱 I’m currently learning Cloud Services and Kubernetes
 
