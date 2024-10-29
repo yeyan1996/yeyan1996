@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Cloud Services and Kubernetes
 
-- 📝 I regularly write articles on [medium](https://medium.com/@yeyan1996)
+- 📝 I regularly write articles on [medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 
 - 📫 How to reach me [1996yeyan@gmail.com](mailto:1996yeyan@gmail.com)
 
