@@ -1,8 +1,6 @@
 <h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
 <h3 align='center'>A passionate full stack software engineer</h3>
 
-- 🔭 Actively seeking **Software Engineer Internships**
-
 - 💻 I'm proficient in Web Application and Web Infrastructure
 
 - 🌱 I’m currently learning Cloud Services and Kubernetes
