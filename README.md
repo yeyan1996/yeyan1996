@@ -3,6 +3,8 @@
 
 - 💻 I'm proficient in Web Application and Web Infrastructure
 
+- 🧑‍💻 I worked at ByteDance and Bilibili (#26 most-visited websites globally, according to [Wikipedia]([url](https://en.wikipedia.org/wiki/List_of_most-visited_websites)))
+
 - 🌱 I’m currently learning Cloud Computing
 
 - 📝 I regularly write articles on [medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
