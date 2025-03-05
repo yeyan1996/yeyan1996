@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋, I'm Howie</h1>
+<h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
 <h3 align='center'>A passionate full-stack software engineer</h3>
 
 - 💻 I'm proficient in Product Development and Web Infrastructure
