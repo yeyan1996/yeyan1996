@@ -1,7 +1,7 @@
-<h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
+<h1 align='center'>Hi 👋, I'm Howie</h1>
 <h3 align='center'>A passionate full-stack software engineer</h3>
 
-- 💻 I'm proficient in Web Application and Web Infrastructure
+- 💻 I'm proficient in Product Development and Web Infrastructure
 
 - 🧑‍💻 I worked at ByteDance and Bilibili (#28 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
 
@@ -9,10 +9,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 
-- 📫 How to reach me [1996yeyan@gmail.com](mailto:1996yeyan@gmail.com)
+- 📫 How to reach me [howie310103@gmail.com](mailto:howie310103@gmail.com)
 
-<p align='left'>
-</p>
+<p align='left'></p>
 
 <h3 align='left'>Languages and Tools:</h3>
 
