@@ -1,9 +1,9 @@
 <h1 align='center'>Hi 👋, I'm Howie Zhou</h1>
-<h3 align='center'>A passionate full stack software engineer</h3>
+<h3 align='center'>A passionate full-stack software engineer</h3>
 
 - 💻 I'm proficient in Web Application and Web Infrastructure
 
-- 🧑‍💻 I worked at ByteDance and Bilibili (#26 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
+- 🧑‍💻 I worked at ByteDance and Bilibili (#28 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
 
 - 🌱 I’m currently learning Cloud Computing (AWS EC2 & S3, GCP, GKE)
 
