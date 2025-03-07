@@ -50,7 +50,7 @@
 		<img src='https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg' alt='webpack' width='40' height='40' />
 	</a>
 	<a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'>
-		<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' width='40' height='40' />
+		<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons//tailwindcss/tailwindcss-original.svg' alt='nodejs' width='40' height='40' />
 	</a>
 	<a href='https://nodejs.org' target='_blank' rel='noreferrer'>
 		<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs' width='40' height='40' />
