@@ -5,7 +5,7 @@
 
 - 🧑‍💻 I worked at TikTok, ByteDance and Bilibili (#28 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
 
-- 🌱 I’m currently learning and developing AI Agent (OpenHands 🙌, LangChain 🦜🔗, LangGraph)
+- 🌱 I’m currently learning and developing AI Agents (OpenHands 🙌, LangGraph 🦜🔗, Manus)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 
