@@ -5,7 +5,7 @@
 
 - 🧑‍💻 I worked at TikTok, ByteDance and Bilibili (#28 most-visited websites globally, according to [Wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites))
 
-- 🌱 I’m currently developing General-purpose AI Agents ([Suna](https://github.com/Kortix-ai/Suna) 🤖), [LangGraph](https://github.com/langchain-ai/langgraph) 🦜🔗, [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🙌)
+- 🌱 I’m currently developing General-purpose AI Agents ([Suna](https://github.com/Kortix-ai/Suna) 🤖, [LangGraph](https://github.com/langchain-ai/langgraph) 🦜🔗, [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🙌)
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@yeyan1996) and [juejin.cn](https://juejin.cn/user/2400989094099086)
 
